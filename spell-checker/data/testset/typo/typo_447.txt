@@ -1,0 +1,10 @@
+friends: fribmds
+they: nhed
+most: mzst
+town: towo
+told: toll
+villages: villagev
+luck: vuci
+sustained: vustained
+small: sfall
+next: nexo

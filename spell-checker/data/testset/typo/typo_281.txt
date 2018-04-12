@@ -1,0 +1,6 @@
+space: qpoce
+they: tyey
+space: ypace
+rockets: rocketo
+they: thxy
+bathrooms: bathzooms

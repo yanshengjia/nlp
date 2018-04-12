@@ -1,0 +1,7 @@
+sings: sfngs
+musician: musgcian
+nbsp: nbsd
+nbsp: npsv
+sing: sioh
+helen: helez
+asks: dsks

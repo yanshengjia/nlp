@@ -1,0 +1,7 @@
+some: soue
+quantity: qtantity
+juice: juyce
+bottles: bottees
+kilo: kiku
+apple: applq
+yuan: bucn

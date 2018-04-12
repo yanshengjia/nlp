@@ -1,0 +1,7 @@
+long: lsng
+learn: lpain
+often: eftrn
+work: wbrk
+work: wyrk
+sometimes: szmetimef
+when: whet

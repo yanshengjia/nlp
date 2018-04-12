@@ -1,0 +1,7 @@
+working: torking
+other: otper
+school: sjhool
+school: scrool
+headmaster: hvadmaster
+rest: resf
+work: woek

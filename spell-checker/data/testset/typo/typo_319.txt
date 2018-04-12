@@ -1,0 +1,6 @@
+visit: visih
+beijing: bmijing
+sanya: sqnya
+here: hwre
+come: comi
+each: eaeh

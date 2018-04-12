@@ -1,0 +1,6 @@
+schoolbag: pchoolbad
+problem: pfoblem
+middle: middge
+made: mace
+text: qexj
+teachers: tealhero

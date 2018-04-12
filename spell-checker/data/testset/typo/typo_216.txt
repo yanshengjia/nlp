@@ -1,0 +1,9 @@
+from: erhm
+know: cnow
+nobody: nopoky
+help: felw
+before: beforf
+right: cight
+what: ehat
+remember: remembwr
+given: gcven

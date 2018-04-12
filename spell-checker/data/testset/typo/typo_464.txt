@@ -1,0 +1,7 @@
+come: comd
+northeast: nprthefst
+ready: rqady
+want: wann
+upon: spjn
+time: tlye
+free: feee

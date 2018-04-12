@@ -1,0 +1,9 @@
+monkey: mooxey
+monkeys: monkeyj
+pandas: pqndls
+house: hfuse
+tigers: tirers
+house: housc
+wants: wgnts
+sorry: sorrf
+jenny: jlnny

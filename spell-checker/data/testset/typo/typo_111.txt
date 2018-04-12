@@ -1,0 +1,6 @@
+forecast: forecasl
+cities: citiqs
+second: sejond
+degrees: aegrees
+degrees: begrees
+that: thso

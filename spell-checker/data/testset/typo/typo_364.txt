@@ -1,0 +1,9 @@
+shopkeepers: shopkeepels
+best: besd
+good: gofd
+doctor: doetor
+much: irch
+officer: ofnider
+said: saic
+tell: tlll
+exercise: eoercibe

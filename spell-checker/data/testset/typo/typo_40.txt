@@ -1,0 +1,6 @@
+from: feom
+time: timy
+traveling: tsaveling
+will: zilo
+room: robm
+sheep: sjeep

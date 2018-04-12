@@ -1,0 +1,9 @@
+work: wogk
+streets: sfreets
+called: calyed
+fast: aast
+little: litqle
+drank: dklnk
+happy: hudpy
+anything: mnything
+only: onlz

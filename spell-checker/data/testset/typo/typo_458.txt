@@ -1,0 +1,15 @@
+want: tant
+children: childwen
+your: yomr
+surin: suriu
+evening: gvening
+when: haen
+city: citc
+famous: famohs
+surin: surix
+chance: cdance
+talk: tnlu
+english: qnglish
+play: pdae
+free: gren
+time: wioe

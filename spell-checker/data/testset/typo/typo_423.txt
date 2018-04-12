@@ -1,0 +1,6 @@
+fruit: frugt
+like: lbke
+children: rhildren
+fruit: eruit
+school: dchoog
+home: hume

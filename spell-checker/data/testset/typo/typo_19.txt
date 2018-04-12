@@ -1,0 +1,10 @@
+some: syme
+mother: mozher
+wrong: jrong
+five: fioe
+mother: mochek
+shop: shup
+house: houae
+flower: ftower
+question: tuestion
+cost: mwst

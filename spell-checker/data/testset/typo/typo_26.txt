@@ -1,0 +1,7 @@
+things: thinjs
+money: moneq
+quite: quiue
+still: stgll
+years: yzars
+shirt: awirt
+hasn: casn

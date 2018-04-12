@@ -1,0 +1,4 @@
+well: wezl
+doctor: dortor
+medicine: medicinp
+jack: oack

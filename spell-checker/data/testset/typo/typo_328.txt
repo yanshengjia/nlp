@@ -1,0 +1,10 @@
+every: evety
+makes: makeq
+books: boekw
+says: swyh
+learning: learninb
+daytime: daytimw
+they: taey
+jeff: jefr
+music: musjc
+students: stutents

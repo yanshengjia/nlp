@@ -1,0 +1,9 @@
+part: pare
+work: wodk
+into: inti
+leave: leavv
+motorcycle: motorcyclz
+cars: cwys
+grown: groen
+parents: dareuts
+drive: dcive

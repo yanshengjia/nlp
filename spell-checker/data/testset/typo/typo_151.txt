@@ -1,0 +1,8 @@
+want: wrlt
+know: kzou
+parents: payents
+computer: coeputer
+chess: chesg
+nine: nhne
+read: rcay
+about: fbout

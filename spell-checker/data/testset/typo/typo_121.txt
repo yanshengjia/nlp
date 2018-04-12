@@ -1,0 +1,6 @@
+boys: bqyp
+disabled: dieabled
+happy: hapey
+people: pkople
+children: childben
+volunteer: volungeer

@@ -1,0 +1,12 @@
+countries: csuntrieg
+school: swhool
+studying: studuing
+fields: fcqlds
+about: aboue
+wish: xish
+work: gork
+hope: hipe
+each: ekeh
+desks: mesbs
+help: hrzp
+have: hxve

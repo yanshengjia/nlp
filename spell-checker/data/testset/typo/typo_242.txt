@@ -1,0 +1,7 @@
+problems: pjoblems
+drinking: drinfing
+more: morh
+because: becuuse
+heart: hfart
+three: shrde
+small: spall

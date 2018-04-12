@@ -1,0 +1,5 @@
+about: obout
+town: tizn
+over: ovex
+school: scyool
+lunch: lunth

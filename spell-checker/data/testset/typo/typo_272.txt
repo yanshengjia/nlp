@@ -1,0 +1,11 @@
+days: dgys
+then: tyen
+breakfast: brbakfast
+different: differint
+about: bbout
+usual: nsual
+kitchen: kitzhen
+back: beck
+around: arbued
+nothing: notzing
+went: wenr

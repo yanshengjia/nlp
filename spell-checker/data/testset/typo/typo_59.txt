@@ -1,0 +1,7 @@
+buildings: buoldings
+history: hhstory
+course: courre
+wall: wakl
+every: evmry
+there: tuere
+with: wjth

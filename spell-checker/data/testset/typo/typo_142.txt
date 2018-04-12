@@ -1,0 +1,4 @@
+morning: mornipg
+afternoon: afternfon
+left: lejt
+reading: readixg

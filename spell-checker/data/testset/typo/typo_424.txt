@@ -1,0 +1,6 @@
+name: nabe
+sunday: sundiy
+middle: midzle
+will: wyll
+some: sote
+some: shme

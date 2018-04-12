@@ -1,0 +1,4 @@
+afternoon: abtyrnoon
+night: tlght
+tomorrow: tomtgrow
+till: tids

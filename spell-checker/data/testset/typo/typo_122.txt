@@ -1,0 +1,6 @@
+only: soly
+small: soall
+train: traig
+every: everh
+both: botb
+only: ofln

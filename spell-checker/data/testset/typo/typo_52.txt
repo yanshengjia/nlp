@@ -1,0 +1,9 @@
+early: earri
+true: tdue
+sleep: slenp
+well: wejl
+late: laax
+sleep: mleep
+breaks: brtaks
+means: meano
+body: bodn

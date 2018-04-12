@@ -1,0 +1,11 @@
+king: kwng
+martin: uartin
+kind: kiwd
+martin: martir
+tall: taol
+liked: likey
+very: eery
+also: aljo
+black: bwacr
+black: blacs
+also: alse

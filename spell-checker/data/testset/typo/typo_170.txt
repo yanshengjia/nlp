@@ -1,0 +1,6 @@
+play: klal
+well: jtll
+singing: singakg
+club: clib
+party: pfrty
+call: cavl

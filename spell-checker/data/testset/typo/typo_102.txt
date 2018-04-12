@@ -1,0 +1,8 @@
+ladies: iadies
+welcome: weldome
+china: nrina
+world: wozld
+million: xillion
+interest: inwerest
+summer: summeo
+beijing: meijing

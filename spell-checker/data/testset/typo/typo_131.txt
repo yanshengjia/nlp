@@ -1,0 +1,11 @@
+first: firsv
+important: omportant
+please: phease
+questions: questiong
+yourself: yoursplf
+help: heli
+teachers: teafherr
+people: peoule
+cover: coder
+when: mhen
+life: qife

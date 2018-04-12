@@ -1,0 +1,4 @@
+karl: karm
+mother: slther
+karl: kary
+some: soqe

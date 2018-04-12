@@ -1,0 +1,7 @@
+before: bexore
+must: vutt
+stop: styp
+come: ckme
+hong: honl
+floors: flobrs
+second: secofd

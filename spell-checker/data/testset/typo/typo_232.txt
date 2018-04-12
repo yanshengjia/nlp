@@ -1,0 +1,15 @@
+hospitals: hospdtals
+with: wlth
+cardiff: cardixf
+university: bniversith
+central: qxntral
+people: peopae
+reefs: roefs
+dies: dics
+live: liue
+family: fksily
+cleaning: cleanihg
+work: egrk
+belize: belizj
+another: azother
+visit: visyt

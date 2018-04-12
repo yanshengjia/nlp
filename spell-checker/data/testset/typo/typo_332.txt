@@ -1,0 +1,6 @@
+have: hise
+school: sjlool
+school: ochool
+parents: paments
+meal: mtrl
+have: hake

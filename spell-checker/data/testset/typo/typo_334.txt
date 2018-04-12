@@ -1,0 +1,7 @@
+sure: suqe
+international: ikternationil
+hotel: hztel
+from: yrom
+pool: pooj
+friendly: fyiendly
+walk: wazk

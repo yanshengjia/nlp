@@ -1,0 +1,5 @@
+doctor: dtctor
+piece: piecc
+meal: ieaj
+suitable: smitable
+november: novembey

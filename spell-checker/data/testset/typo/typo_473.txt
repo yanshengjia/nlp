@@ -1,0 +1,13 @@
+some: soml
+help: gelp
+answer: aisweo
+advice: advnce
+think: dhink
+that: yhat
+other: othed
+tell: rsll
+question: duestion
+your: yxur
+next: nemt
+subject: mubject
+quite: tuite

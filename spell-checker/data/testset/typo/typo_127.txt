@@ -1,0 +1,7 @@
+reporter: repopter
+week: wmrk
+including: inczuding
+wants: wakts
+started: saartem
+french: frknch
+succeed: succeem

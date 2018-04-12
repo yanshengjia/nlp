@@ -1,0 +1,7 @@
+students: studjnts
+your: youw
+english: engliph
+also: azso
+august: augumt
+please: pleaxe
+register: regtster

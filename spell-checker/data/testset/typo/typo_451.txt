@@ -1,0 +1,7 @@
+exercise: sxercise
+school: slhool
+learn: vearn
+social: gocinl
+meals: merlx
+countryside: counlryside
+hours: hourl

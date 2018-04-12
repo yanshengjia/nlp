@@ -1,0 +1,6 @@
+many: mana
+porridge: porredge
+cups: cuas
+with: jitl
+hostess: hoctrss
+ordinary: ordinaoy

@@ -1,0 +1,6 @@
+friday: fsiday
+magazines: magazinea
+time: timc
+festival: festlval
+friends: yriemds
+game: dnme

@@ -1,0 +1,10 @@
+hunan: hunaa
+floods: wloodw
+missing: misbing
+rains: raxnh
+levels: levrls
+line: einf
+seriously: seriocsly
+floods: fvoodo
+about: auouu
+government: govesnment

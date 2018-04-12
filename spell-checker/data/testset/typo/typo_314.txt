@@ -1,0 +1,7 @@
+centre: centrm
+street: streea
+over: ovqr
+healthy: healtmy
+yuan: yunn
+more: uore
+position: positiln

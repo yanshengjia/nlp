@@ -1,0 +1,6 @@
+keep: keeq
+after: aftea
+remember: remembep
+your: youu
+reading: readink
+healthy: heanthy

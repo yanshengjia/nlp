@@ -1,0 +1,4 @@
+lazy: ohzy
+doctor: doctoj
+john: tohn
+that: thax

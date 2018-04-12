@@ -1,0 +1,11 @@
+long: lonr
+japan: japam
+fabric: kabrzc
+embroidery: embroxdery
+denim: dedim
+wide: widv
+techniques: techniquem
+still: sthll
+foundation: fsundativn
+placement: placiment
+many: mady

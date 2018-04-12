@@ -1,0 +1,5 @@
+cousin: coysin
+from: froi
+takes: takem
+visit: vivit
+misses: mlsscs

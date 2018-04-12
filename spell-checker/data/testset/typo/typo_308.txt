@@ -1,0 +1,10 @@
+from: zrom
+teachers: tedchers
+school: schoow
+good: gaod
+easily: mayily
+knowledge: knoaleege
+also: alco
+they: biey
+bring: srxng
+them: mhem

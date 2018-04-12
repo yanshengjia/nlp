@@ -1,0 +1,6 @@
+make: maje
+basic: busic
+they: tpey
+does: doqs
+training: trnintng
+easily: easify

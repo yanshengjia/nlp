@@ -1,0 +1,5 @@
+hello: hullo
+meet: deet
+people: peglle
+hand: hahd
+hello: hxllo

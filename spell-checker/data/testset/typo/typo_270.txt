@@ -1,0 +1,5 @@
+goes: boes
+says: saye
+plate: pkate
+says: saos
+very: eery

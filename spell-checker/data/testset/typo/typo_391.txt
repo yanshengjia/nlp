@@ -1,0 +1,5 @@
+just: rust
+sometimes: sombtites
+call: cael
+morning: mornvng
+aged: kged

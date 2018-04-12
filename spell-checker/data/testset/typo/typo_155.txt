@@ -1,0 +1,6 @@
+study: ssudy
+children: cyyldren
+after: zfter
+sign: swgn
+with: whth
+toys: tofs

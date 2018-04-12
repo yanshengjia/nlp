@@ -1,0 +1,4 @@
+hello: helto
+school: schqol
+days: djys
+after: aqter

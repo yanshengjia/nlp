@@ -1,0 +1,10 @@
+find: einh
+look: lwok
+give: gike
+grandma: grqndmw
+road: roag
+help: felp
+good: gook
+said: sayd
+road: rold
+cross: pross

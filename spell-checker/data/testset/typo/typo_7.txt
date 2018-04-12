@@ -1,0 +1,6 @@
+after: aftep
+time: timx
+rules: zulms
+take: taee
+after: nfter
+order: ordee

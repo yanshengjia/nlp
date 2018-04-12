@@ -1,0 +1,6 @@
+clear: cluar
+bikes: bihes
+dangerous: dangarous
+well: wlll
+rules: ralis
+them: taem

@@ -1,0 +1,9 @@
+english: englise
+minutes: cinutes
+school: scaool
+more: morb
+school: sohool
+health: iealth
+because: becqose
+their: xheir
+school: dchool

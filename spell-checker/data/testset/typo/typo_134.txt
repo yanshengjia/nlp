@@ -1,0 +1,7 @@
+school: schoel
+things: thiags
+this: tzit
+blue: flue
+brown: browl
+lose: losh
+help: hplp

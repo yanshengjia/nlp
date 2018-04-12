@@ -1,0 +1,7 @@
+subjects: subiects
+chinese: ckinese
+things: ghings
+play: nlay
+some: soye
+some: scme
+school: sqhool

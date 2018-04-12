@@ -1,0 +1,9 @@
+doctor: doctoq
+countries: countrivs
+visited: tisited
+tian: pian
+they: teey
+peter: pmter
+also: adso
+cute: adte
+because: becaume

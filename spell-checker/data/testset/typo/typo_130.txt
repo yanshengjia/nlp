@@ -1,0 +1,6 @@
+trees: drees
+many: mant
+ants: antm
+great: grrat
+heavy: hervy
+time: jime

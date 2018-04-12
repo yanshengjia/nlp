@@ -1,0 +1,5 @@
+want: kant
+june: juge
+price: hrice
+find: finw
+lost: llst

@@ -1,0 +1,8 @@
+complain: cmmplain
+knowledge: knowlmdge
+finishing: ftnishing
+student: studunt
+four: foun
+students: sduderts
+them: thrm
+feel: feew

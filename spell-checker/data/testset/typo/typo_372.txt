@@ -1,0 +1,6 @@
+have: hake
+their: oheir
+some: somv
+gardening: gaudening
+england: englajd
+reading: readinc

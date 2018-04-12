@@ -1,0 +1,5 @@
+person: persot
+calories: cajorins
+junk: jsmk
+exercise: ezercise
+there: thmre

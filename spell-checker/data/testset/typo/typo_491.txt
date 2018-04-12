@@ -1,0 +1,8 @@
+could: gould
+sheep: shebp
+happened: huppened
+flower: mlower
+home: humk
+wizard: wilard
+land: lahd
+water: dater

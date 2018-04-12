@@ -1,0 +1,12 @@
+many: mvny
+airport: aiaporl
+planes: planen
+airport: pirpoct
+train: traun
+usually: usuadly
+late: lata
+walk: wadi
+windows: mindows
+when: wben
+station: gtatiou
+things: thinoz

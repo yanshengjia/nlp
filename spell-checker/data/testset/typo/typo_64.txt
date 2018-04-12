@@ -1,0 +1,6 @@
+traffic: trafqic
+with: witg
+lost: lksu
+climbed: cjimbed
+window: winkow
+decided: decidsd

@@ -1,0 +1,9 @@
+tell: teld
+spend: spkhd
+eating: eatina
+office: offace
+kitchen: xitchen
+buying: buyind
+like: lbke
+live: lfve
+bored: bwred

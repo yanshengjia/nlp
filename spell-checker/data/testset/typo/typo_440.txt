@@ -1,0 +1,5 @@
+gives: giveu
+eats: ects
+knows: kaols
+brings: brizgs
+when: whet

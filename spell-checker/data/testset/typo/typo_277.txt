@@ -1,0 +1,7 @@
+days: tays
+married: marrisd
+know: knyw
+ring: rrng
+been: blen
+always: alvays
+after: aftet

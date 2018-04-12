@@ -1,0 +1,7 @@
+chicken: chickev
+beak: bemk
+world: woeld
+only: hmly
+never: nwner
+their: thewr
+from: srom

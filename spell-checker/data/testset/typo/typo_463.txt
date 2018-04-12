@@ -1,0 +1,7 @@
+hotel: hotal
+find: fimd
+said: sayd
+visit: vysig
+decided: decidhd
+doctor: ioctor
+medicine: oedicine

@@ -1,0 +1,6 @@
+music: mvsiy
+states: staces
+music: masic
+records: recorzs
+cities: uities
+work: wolk

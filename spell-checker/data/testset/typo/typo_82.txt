@@ -1,0 +1,6 @@
+important: impmrtant
+children: chpldren
+only: onlt
+come: cwme
+eaten: waten
+afterwards: aftzrwards

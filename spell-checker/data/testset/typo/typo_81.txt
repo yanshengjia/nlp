@@ -1,0 +1,4 @@
+some: dome
+friends: mriends
+window: winfow
+talked: talced

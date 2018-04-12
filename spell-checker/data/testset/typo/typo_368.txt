@@ -1,0 +1,12 @@
+cleaning: cleangng
+children: chiedren
+like: lije
+fish: xish
+many: mady
+from: frke
+picked: pgcked
+card: caid
+again: agaic
+soon: byon
+take: taoe
+their: taeir

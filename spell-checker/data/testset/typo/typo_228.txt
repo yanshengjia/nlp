@@ -1,0 +1,7 @@
+from: frop
+teaches: ueaches
+reads: rqads
+english: engxisk
+lunch: lcdch
+four: fohr
+about: kgout

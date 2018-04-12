@@ -1,0 +1,10 @@
+special: kpecial
+learning: leabning
+with: witm
+alone: alome
+teach: teaih
+take: tyke
+full: yull
+take: tako
+then: thjn
+test: fest

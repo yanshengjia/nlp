@@ -1,0 +1,5 @@
+began: begwn
+problems: probldms
+afraid: rfraid
+good: vood
+started: stwrted

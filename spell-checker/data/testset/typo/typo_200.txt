@@ -1,0 +1,11 @@
+rich: ricu
+helicopter: helicowter
+play: plpd
+boring: porifg
+hands: handz
+time: timp
+australian: austrrlian
+shouted: shoufed
+mexican: kexican
+immediately: imjegiately
+high: hbgh

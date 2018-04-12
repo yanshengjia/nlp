@@ -1,0 +1,12 @@
+trying: trping
+using: uding
+numbers: numberx
+enough: ewough
+about: aboun
+equipment: squipment
+clear: cleah
+hours: hourc
+every: tvezy
+helpful: helpffl
+stop: stkp
+results: rtsults

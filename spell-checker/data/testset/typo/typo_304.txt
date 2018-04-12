@@ -1,0 +1,5 @@
+instruments: insteuments
+coach: coacu
+every: epery
+information: informatikn
+computer: cdmputer

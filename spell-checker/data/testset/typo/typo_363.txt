@@ -1,0 +1,8 @@
+this: thys
+more: mjra
+concert: cxncert
+from: tnom
+last: lisq
+chance: chynce
+gate: gale
+might: migqt

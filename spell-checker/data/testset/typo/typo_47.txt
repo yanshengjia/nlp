@@ -1,0 +1,8 @@
+time: oime
+bought: bfught
+yellow: yeflow
+clock: clouk
+house: hquse
+some: bome
+tomato: tomami
+then: thdn

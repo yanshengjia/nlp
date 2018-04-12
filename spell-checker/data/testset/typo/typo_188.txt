@@ -1,0 +1,5 @@
+have: hyve
+school: schcol
+take: takp
+keep: keok
+says: sats

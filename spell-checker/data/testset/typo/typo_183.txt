@@ -1,0 +1,8 @@
+went: wcnt
+lots: loms
+there: mhere
+empty: empvc
+bill: hilj
+hard: hbrr
+restaurant: restaurent
+noodles: noodlez

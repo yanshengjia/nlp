@@ -1,0 +1,8 @@
+advertisements: advertisbxents
+information: informatlon
+teaching: tevching
+larry: lariy
+nbsp: ngxp
+under: unxer
+apartment: ppartmenl
+beautiful: bdautiful

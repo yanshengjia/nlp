@@ -1,0 +1,12 @@
+book: bfok
+specific: sfecific
+answers: answegs
+books: bookv
+bookstore: boofstore
+then: thsn
+many: mgnw
+printed: printyd
+whole: chole
+about: abouf
+certain: certaip
+books: tocks

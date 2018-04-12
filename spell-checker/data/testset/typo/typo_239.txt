@@ -1,0 +1,9 @@
+around: argund
+house: housg
+walked: galkem
+window: windor
+there: fhere
+meters: keters
+shop: snop
+knows: kipws
+into: ingo

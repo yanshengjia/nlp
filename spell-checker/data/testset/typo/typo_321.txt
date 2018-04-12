@@ -1,0 +1,7 @@
+band: brnd
+interested: ynterested
+english: erglish
+perfect: perfeft
+camera: qamera
+time: tise
+need: ueed

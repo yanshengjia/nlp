@@ -1,0 +1,5 @@
+here: sere
+play: glay
+film: filx
+finally: finalvy
+thing: nhing

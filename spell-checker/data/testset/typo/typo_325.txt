@@ -1,0 +1,9 @@
+kind: kfnd
+when: wter
+your: ynur
+only: onlz
+children: chiwdpen
+often: ohcen
+first: fiwut
+talk: txlk
+other: otker

@@ -1,0 +1,10 @@
+last: lldt
+english: englisq
+studying: studling
+something: somethigg
+into: icto
+bedroom: bevroom
+through: tlrough
+luckily: luchily
+came: ceme
+back: vack

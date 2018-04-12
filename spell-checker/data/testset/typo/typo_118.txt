@@ -1,0 +1,7 @@
+school: vchool
+museum: mnseud
+about: abouy
+about: abmut
+late: latb
+each: eacn
+some: xome

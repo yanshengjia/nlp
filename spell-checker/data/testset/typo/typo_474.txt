@@ -1,0 +1,8 @@
+moves: mjves
+more: mope
+family: fwrily
+jump: jumd
+tigers: tpgers
+places: ilaces
+clothes: clnthes
+less: eess

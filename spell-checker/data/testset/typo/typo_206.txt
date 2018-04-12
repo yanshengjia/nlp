@@ -1,0 +1,6 @@
+town: towx
+their: thezr
+house: housz
+smith: smgth
+says: mays
+want: iant

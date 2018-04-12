@@ -1,0 +1,6 @@
+yiwu: yiwq
+quick: quico
+railway: railwny
+hard: xarx
+nbsp: nbsu
+airport: airkort

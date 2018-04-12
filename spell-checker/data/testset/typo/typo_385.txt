@@ -1,0 +1,7 @@
+city: cnty
+first: fdrst
+avenue: avunue
+building: tuildimg
+street: strect
+park: pasv
+park: pakk

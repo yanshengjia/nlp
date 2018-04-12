@@ -1,0 +1,8 @@
+survey: qurvly
+cities: citfes
+guangzhou: guanqbhou
+diagram: diagyam
+from: jrom
+villages: vellages
+their: aheir
+make: magb

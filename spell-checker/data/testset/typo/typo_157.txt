@@ -1,0 +1,6 @@
+family: famhly
+every: evhry
+because: berause
+care: curt
+basketball: basketmall
+play: slag

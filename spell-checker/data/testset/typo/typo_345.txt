@@ -1,0 +1,7 @@
+place: rlace
+come: cowe
+most: mgst
+years: yekrs
+time: eime
+spanish: wpanish
+this: thiv

@@ -1,0 +1,14 @@
+others: othkrs
+today: todaj
+spend: spynd
+some: somc
+going: gning
+jason: jasor
+house: howse
+houses: ivuses
+they: chey
+have: aave
+work: rork
+life: hife
+they: tiel
+love: lkve

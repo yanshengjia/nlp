@@ -1,0 +1,5 @@
+meters: metecs
+more: mome
+tall: salv
+stop: rwop
+wonders: wondeps

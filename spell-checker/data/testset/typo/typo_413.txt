@@ -1,0 +1,6 @@
+america: amemica
+everyday: everytay
+very: xery
+world: forld
+mind: minr
+lost: losd

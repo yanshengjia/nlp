@@ -1,0 +1,10 @@
+training: traioing
+english: englksh
+nbsp: nlsd
+nbsp: njsd
+other: lther
+language: tanguage
+nbsp: nbsj
+nbsp: nbyp
+letter: letteq
+thompson: khmmpson

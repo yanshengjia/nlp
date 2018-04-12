@@ -1,0 +1,10 @@
+nbsp: zbsp
+round: roend
+school: scwool
+nbsp: nbkp
+january: januady
+nbsp: nksp
+programme: progwamme
+nbsp: qbsp
+special: smeciar
+cultural: culturhl

@@ -1,0 +1,5 @@
+about: abouv
+library: librazy
+students: stufents
+weeks: weekg
+books: zodks

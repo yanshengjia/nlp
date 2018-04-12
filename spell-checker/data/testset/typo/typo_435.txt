@@ -1,0 +1,10 @@
+countries: cauntries
+about: jbout
+people: peorle
+like: uike
+girls: gibls
+themselves: themaelves
+girl: zirl
+music: musin
+that: tbat
+stars: styrs

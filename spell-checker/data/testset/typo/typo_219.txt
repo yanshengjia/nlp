@@ -1,0 +1,7 @@
+pretty: nretty
+laura: lauwa
+believe: oelieve
+exam: exap
+grades: gyades
+plan: plaz
+awkward: xpkward

@@ -1,0 +1,10 @@
+cards: cardz
+that: thgt
+designs: dmsigns
+your: nour
+blank: blanv
+business: busfness
+because: becvuje
+light: nisht
+serious: snrious
+cards: cardx

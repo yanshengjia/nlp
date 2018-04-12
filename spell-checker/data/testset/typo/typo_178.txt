@@ -1,0 +1,6 @@
+classmates: cqassmates
+just: jusc
+dancing: danckng
+boat: loat
+drawing: djawing
+pencil: peniil

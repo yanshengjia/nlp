@@ -1,0 +1,13 @@
+meet: jeet
+class: clasm
+begin: cegin
+minute: miuute
+afternoon: afuernoon
+school: scwozl
+study: stkdt
+science: mcirnce
+geography: gengraphy
+practice: prbctice
+language: lasguage
+record: recvrd
+individual: indcvidual

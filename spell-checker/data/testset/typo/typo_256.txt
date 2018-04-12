@@ -1,0 +1,6 @@
+difficult: dvfficult
+cities: cbties
+know: knok
+countryside: counttyside
+some: ssme
+boat: bont

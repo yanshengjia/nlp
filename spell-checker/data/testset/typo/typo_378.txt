@@ -1,0 +1,5 @@
+gets: gebs
+with: sith
+school: ichool
+love: loce
+club: cldb

@@ -1,0 +1,8 @@
+just: juit
+morning: mornmng
+afternoon: afternooi
+dinner: pinner
+saturday: saturcay
+bought: beught
+nice: nics
+sunday: sunyay

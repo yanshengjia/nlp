@@ -1,0 +1,10 @@
+about: aboit
+students: studects
+them: thjm
+what: wzat
+from: fgom
+really: rerlly
+learn: lexrn
+possible: possiele
+studying: itudying
+many: rany

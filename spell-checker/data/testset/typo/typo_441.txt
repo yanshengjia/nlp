@@ -1,0 +1,5 @@
+indian: iddiab
+waiting: waitink
+throw: thrhw
+from: frem
+time: timz

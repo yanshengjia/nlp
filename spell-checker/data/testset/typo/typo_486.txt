@@ -1,0 +1,4 @@
+possible: possihle
+unhappy: uemappy
+learning: learnikg
+everyone: sveryone

@@ -1,0 +1,9 @@
+buses: buseb
+drove: dskve
+bought: btught
+silk: snlk
+soon: soyn
+tourist: tourise
+even: evln
+during: durinv
+change: chayge

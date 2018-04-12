@@ -1,0 +1,9 @@
+hotel: hotrl
+this: ghis
+ottawa: omtawa
+banff: bwnff
+about: anout
+price: brice
+this: ehis
+from: fhok
+fell: felu

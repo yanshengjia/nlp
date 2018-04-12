@@ -1,0 +1,3 @@
+weekdays: weskdays
+like: lide
+usually: usyally

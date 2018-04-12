@@ -1,0 +1,7 @@
+spring: sprhng
+call: calw
+year: uear
+houses: louses
+dinner: dinqer
+stay: sfae
+good: gord

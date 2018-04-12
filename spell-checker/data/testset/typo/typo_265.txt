@@ -1,0 +1,11 @@
+students: stuhents
+false: valse
+probably: krobably
+then: tben
+difficult: difmicuot
+advise: adcise
+bald: gald
+with: woth
+from: flom
+your: yoir
+concentrate: concenmrate

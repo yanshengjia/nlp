@@ -1,0 +1,11 @@
+highway: hirhway
+taxi: taxy
+around: fround
+kinds: kbnds
+driver: drivev
+more: kore
+worst: worsn
+hundreds: hundredp
+drivers: driveps
+happy: hapjw
+there: thsse

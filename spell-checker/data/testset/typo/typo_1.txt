@@ -1,0 +1,6 @@
+keep: kzep
+kept: bfpt
+when: wpen
+young: youlg
+home: homu
+children: chxldren

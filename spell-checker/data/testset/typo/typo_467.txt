@@ -1,0 +1,6 @@
+when: wsen
+always: alwryx
+pays: pafs
+money: monxy
+surprise: surbrise
+from: crom

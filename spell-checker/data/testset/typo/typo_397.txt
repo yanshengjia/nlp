@@ -1,0 +1,8 @@
+playing: pzaying
+people: pesdle
+born: borp
+people: peoule
+article: artikte
+failed: failcd
+well: wehl
+books: rofks

@@ -1,0 +1,6 @@
+diving: divsng
+like: lije
+back: bact
+after: vfter
+stay: stap
+hands: hanbu

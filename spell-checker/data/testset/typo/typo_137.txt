@@ -1,0 +1,13 @@
+from: lrox
+calendar: balendar
+things: thinws
+pens: dens
+line: uine
+your: xour
+notes: nofes
+great: greqx
+about: abuut
+with: wita
+other: othey
+problems: probleme
+when: eien

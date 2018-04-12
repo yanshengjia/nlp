@@ -1,0 +1,7 @@
+scientists: scpentiots
+find: fiwz
+them: tmem
+colors: cnlors
+food: fook
+monkey: mogaey
+blue: blse

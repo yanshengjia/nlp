@@ -1,0 +1,11 @@
+make: mgke
+ways: waks
+silence: nifence
+continue: hontinue
+other: ither
+keep: keec
+will: wiim
+keep: heep
+meet: aeet
+good: gooq
+make: meke

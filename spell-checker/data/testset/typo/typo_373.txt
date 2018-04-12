@@ -1,0 +1,7 @@
+deal: dlal
+weekends: weekrnds
+work: tolk
+nice: xiue
+sure: surn
+crying: cryine
+feel: feee

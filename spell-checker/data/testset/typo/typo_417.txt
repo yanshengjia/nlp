@@ -1,0 +1,4 @@
+customers: cjsdomers
+newspapers: newsvabers
+those: thost
+money: mowey

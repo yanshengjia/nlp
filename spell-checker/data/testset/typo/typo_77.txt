@@ -1,0 +1,11 @@
+just: jwst
+many: mxny
+first: firsq
+name: qaee
+children: chilkren
+machine: macrine
+shop: ihop
+life: lifz
+without: nithout
+named: vayed
+really: rratly

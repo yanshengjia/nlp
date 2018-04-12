@@ -1,0 +1,8 @@
+when: ghen
+schools: rchools
+exams: exajs
+strong: stronk
+thin: ihtn
+months: mofthn
+about: aboup
+people: peopee

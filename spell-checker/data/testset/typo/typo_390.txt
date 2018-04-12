@@ -1,0 +1,13 @@
+today: tzday
+head: heao
+school: schpoq
+than: toan
+english: jngcish
+miss: misx
+should: shouls
+then: ssen
+sang: sfng
+first: birst
+have: hale
+happy: hrppy
+continue: contynue

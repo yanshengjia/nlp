@@ -1,0 +1,7 @@
+excellent: exchllent
+they: thed
+haircut: hmircut
+nbsp: nvsp
+nbsp: nxsp
+nbsp: mbsp
+nbsp: nbkp

@@ -1,0 +1,6 @@
+welcome: welfome
+music: mujic
+visiting: visitvng
+about: abeut
+might: mimht
+sure: nuru

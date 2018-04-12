@@ -1,0 +1,4 @@
+wait: wast
+sure: smre
+news: neqs
+talks: talkn

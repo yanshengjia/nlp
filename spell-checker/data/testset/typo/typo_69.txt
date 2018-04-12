@@ -1,0 +1,9 @@
+worlds: boqlds
+book: bool
+from: froh
+actors: actqrs
+going: coing
+people: paople
+their: eheir
+before: aeftre
+people: deople

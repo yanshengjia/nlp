@@ -1,0 +1,6 @@
+gets: mets
+morning: iorsing
+twelve: toelve
+after: afteo
+school: schzol
+goes: gegs

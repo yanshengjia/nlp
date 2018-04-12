@@ -1,0 +1,1013 @@
+[essay 1]
+typo: bfpt    prediction: but    true: kept
+
+[essay 2]
+typo: bzll    prediction: bill    true: tell
+typo: aiye    prediction: ziye    true: time
+
+[essay 4]
+typo: yeafs    prediction: years    true: means
+typo: pily    prediction: lily    true: only
+
+[essay 5]
+typo: whkle    prediction: whole    true: while
+
+[essay 6]
+typo: jsmk    prediction: jack    true: junk
+
+[essay 9]
+typo: gvmr    prediction: mr    true: over
+typo: nhis    prediction: his    true: this
+
+[essay 10]
+typo: uent    prediction: went    true: sent
+
+[essay 12]
+typo: iibson    prediction: gibson    true: wilson
+
+[essay 15]
+typo: adte    prediction: date    true: cute
+
+[essay 17]
+typo: osft    prediction: soft    true: left
+typo: lisw    prediction: lisa    true: like
+typo: hshe    prediction: she    true: hope
+
+[essay 18]
+typo: diod    prediction: did    true: good
+typo: cooc    prediction: cool    true: good
+
+[essay 19]
+typo: mwst    prediction: most    true: cost
+
+[essay 20]
+typo: mntt    prediction: matt    true: must
+typo: theu    prediction: the    true: then
+
+[essay 23]
+typo: sfae    prediction: safe    true: stay
+
+[essay 25]
+typo: thanr    prediction: thank    true: their
+typo: djqing    prediction: daqing    true: during
+typo: uess    prediction: less    true: mess
+
+[essay 26]
+typo: awirt    prediction: art    true: shirt
+typo: casn    prediction: can    true: hasn
+
+[essay 30]
+typo: miby    prediction: moby    true: mike
+typo: ouenings    prediction: openings    true: evenings
+typo: tikbs    prediction: tibs    true: likes
+
+[essay 31]
+typo: pavd    prediction: paid    true: park
+
+[essay 33]
+typo: eakls    prediction: eats    true: wakes
+typo: theb    prediction: the    true: then
+typo: boyu    prediction: boy    true: boys
+
+[essay 34]
+typo: jzly    prediction: july    true: only
+
+[essay 35]
+typo: salv    prediction: salt    true: tall
+
+[essay 36]
+typo: ralis    prediction: rails    true: rules
+
+[essay 38]
+typo: tizn    prediction: tian    true: town
+
+[essay 39]
+typo: hintel    prediction: intel    true: winter
+
+[essay 40]
+typo: zilo    prediction: kilo    true: will
+
+[essay 41]
+typo: qexj    prediction: next    true: text
+
+[essay 43]
+typo: tlght    prediction: tight    true: night
+typo: tids    prediction: kids    true: till
+
+[essay 44]
+typo: hyme    prediction: home    true: some
+
+[essay 46]
+typo: whey    prediction: they    true: when
+
+[essay 50]
+typo: livang    prediction: living    true: giving
+
+[essay 51]
+typo: wherj    prediction: where    true: there
+
+[essay 54]
+typo: wkst    prediction: west    true: what
+
+[essay 55]
+typo: jara    prediction: sara    true: gary
+
+[essay 56]
+typo: vhef    prediction: chef    true: when
+
+[essay 69]
+typo: boqlds    prediction: bowls    true: worlds
+
+[essay 70]
+typo: forys    prediction: forms    true: words
+typo: zimu    prediction: zim    true: time
+
+[essay 72]
+typo: wdnt    prediction: went    true: want
+typo: theu    prediction: the    true: then
+
+[essay 73]
+typo: dohk    prediction: dock    true: does
+typo: aitw    prediction: it    true: bite
+
+[essay 74]
+typo: koat    prediction: boat    true: that
+
+[essay 75]
+typo: foha    prediction: doha    true: john
+
+[essay 77]
+typo: vayed    prediction: played    true: named
+
+[essay 80]
+typo: mahk    prediction: mark    true: mall
+typo: hhen    prediction: when    true: then
+
+[essay 85]
+typo: jitl    prediction: jill    true: with
+
+[essay 87]
+typo: hoaex    prediction: hoax    true: hotel
+
+[essay 89]
+typo: einh    prediction: minh    true: find
+
+[essay 90]
+typo: dskve    prediction: save    true: drove
+
+[essay 93]
+typo: eiey    prediction: evey    true: eyes
+
+[essay 94]
+typo: hexb    prediction: help    true: hear
+
+[essay 95]
+typo: thex    prediction: the    true: they
+
+[essay 96]
+typo: thox    prediction: thou    true: that
+
+[essay 97]
+typo: hongy    prediction: hong    true: money
+
+[essay 99]
+typo: wdrw    prediction: were    true: warm
+
+[essay 100]
+typo: stap    prediction: stop    true: stay
+typo: hanbu    prediction: hand    true: hands
+
+[essay 101]
+typo: wzed    prediction: wed    true: used
+
+[essay 102]
+typo: nrina    prediction: nina    true: china
+
+[essay 103]
+typo: fekr    prediction: fear    true: year
+typo: eens    prediction: pens    true: hens
+
+[essay 105]
+typo: yjue    prediction: yue    true: your
+
+[essay 106]
+typo: ovch    prediction: ouch    true: much
+
+[essay 107]
+typo: oher    prediction: over    true: then
+typo: hala    prediction: half    true: talk
+
+[essay 108]
+typo: theyl    prediction: they    true: there
+typo: qooi    prediction: took    true: look
+
+[essay 110]
+typo: hahd    prediction: hard    true: hand
+
+[essay 111]
+typo: thso    prediction: theo    true: that
+
+[essay 119]
+typo: arth    prediction: art    true: with
+
+[essay 120]
+typo: hojts    prediction: hosts    true: hopes
+
+[essay 121]
+typo: bqyp    prediction: by    true: boys
+
+[essay 122]
+typo: soly    prediction: sold    true: only
+typo: ofln    prediction: ofen    true: only
+
+[essay 127]
+typo: wmrk    prediction: work    true: week
+
+[essay 128]
+typo: worjs    prediction: words    true: world
+typo: doink    prediction: drink    true: doing
+
+[essay 129]
+typo: thed    prediction: then    true: they
+
+[essay 133]
+typo: cmmb    prediction: comb    true: came
+
+[essay 134]
+typo: tzit    prediction: tait    true: this
+
+[essay 135]
+typo: moueh    prediction: mouth    true: money
+
+[essay 137]
+typo: lrox    prediction: look    true: from
+typo: uine    prediction: fine    true: line
+typo: othey    prediction: they    true: other
+typo: eien    prediction: even    true: when
+
+[essay 138]
+typo: qose    prediction: nose    true: home
+
+[essay 140]
+typo: phej    prediction: phew    true: they
+typo: jhct    prediction: jack    true: what
+
+[essay 142]
+typo: lejt    prediction: let    true: left
+
+[essay 144]
+typo: annq    prediction: ann    true: anna
+
+[essay 145]
+typo: cors    prediction: cars    true: work
+typo: mxth    prediction: math    true: with
+
+[essay 147]
+typo: moey    prediction: money    true: they
+
+[essay 148]
+typo: karm    prediction: warm    true: karl
+
+[essay 149]
+typo: rexd    prediction: red    true: read
+typo: reod    prediction: red    true: read
+
+[essay 150]
+typo: xhet    prediction: het    true: what
+
+[essay 151]
+typo: wrlt    prediction: walt    true: want
+typo: kzou    prediction: kou    true: know
+typo: rcay    prediction: ray    true: read
+
+[essay 152]
+typo: fosr    prediction: for    true: four
+
+[essay 157]
+typo: curt    prediction: cut    true: care
+typo: slag    prediction: slam    true: play
+
+[essay 158]
+typo: gare    prediction: game    true: care
+typo: yheee    prediction: these    true: cheer
+typo: kying    prediction: king    true: dying
+
+[essay 159]
+typo: cafo    prediction: cafe    true: came
+
+[essay 160]
+typo: foun    prediction: found    true: four
+
+[essay 166]
+typo: momc    prediction: mom    true: more
+
+[essay 168]
+typo: dail    prediction: daily    true: said
+
+[essay 170]
+typo: jtll    prediction: jill    true: well
+
+[essay 171]
+typo: bally    prediction: sally    true: cally
+typo: gruldn    prediction: couldn    true: wouldn
+
+[essay 173]
+typo: dnme    prediction: dime    true: game
+
+[essay 174]
+typo: yopr    prediction: your    true: year
+
+[essay 175]
+typo: tiel    prediction: tel    true: they
+
+[essay 176]
+typo: jihk    prediction: jim    true: jill
+
+[essay 177]
+typo: reev    prediction: reed    true: feel
+typo: mojk    prediction: monk    true: more
+typo: nhkre    prediction: there    true: share
+typo: wems    prediction: gems    true: well
+typo: lodary    prediction: today    true: rotary
+
+[essay 179]
+typo: woid    prediction: word    true: said
+
+[essay 183]
+typo: hilj    prediction: hill    true: bill
+
+[essay 184]
+typo: idoc    prediction: idol    true: idea
+
+[essay 187]
+typo: tobher    prediction: togher    true: mother
+
+[essay 188]
+typo: keok    prediction: know    true: keep
+
+[essay 189]
+typo: thiur    prediction: thur    true: third
+
+[essay 192]
+typo: qesi    prediction: esi    true: test
+typo: huhp    prediction: hump    true: hurt
+typo: basq    prediction: base    true: last
+typo: thev    prediction: the    true: them
+typo: uend    prediction: send    true: read
+
+[essay 193]
+typo: teld    prediction: told    true: tell
+
+[essay 195]
+typo: tvezy    prediction: they    true: every
+
+[essay 196]
+typo: biwl    prediction: bill    true: will
+
+[essay 198]
+typo: iook    prediction: look    true: cook
+typo: qmmm    prediction: mmm    true: emma
+
+[essay 199]
+typo: tkeb    prediction: the    true: them
+
+[essay 203]
+typo: ueep    prediction: keep    true: jeep
+typo: keas    prediction: keys    true: sees
+typo: tfam    prediction: team    true: that
+
+[essay 208]
+typo: lxip    prediction: lip    true: trip
+
+[essay 211]
+typo: enrry    prediction: entry    true: angry
+
+[essay 214]
+typo: fliu    prediction: liu    true: flew
+typo: wcta    prediction: wta    true: with
+
+[essay 215]
+typo: kiku    prediction: kiki    true: kilo
+typo: bucn    prediction: burn    true: yuan
+
+[essay 216]
+typo: erhm    prediction: erhu    true: from
+typo: felw    prediction: fell    true: help
+
+[essay 219]
+typo: plaz    prediction: play    true: plan
+
+[essay 220]
+typo: gole    prediction: gone    true: some
+
+[essay 222]
+typo: firi    prediction: fire    true: find
+
+[essay 223]
+typo: moko    prediction: moo    true: make
+typo: zeaos    prediction: zeros    true: means
+
+[essay 224]
+typo: thew    prediction: the    true: they
+typo: wilm    prediction: will    true: wild
+typo: tjeo    prediction: theo    true: them
+
+[essay 225]
+typo: tnai    prediction: thai    true: that
+
+[essay 227]
+typo: roun    prediction: round    true: your
+
+[essay 229]
+typo: mady    prediction: many    true: mary
+typo: nyth    prediction: myth    true: with
+
+[essay 230]
+typo: sqmu    prediction: sqm    true: some
+typo: helr    prediction: help    true: hear
+typo: zrto    prediction: to    true: into
+
+[essay 231]
+typo: thlg    prediction: then    true: that
+
+[essay 233]
+typo: orem    prediction: oreo    true: them
+
+[essay 235]
+typo: siub    prediction: sub    true: club
+
+[essay 236]
+typo: rnid    prediction: rid    true: said
+
+[essay 240]
+typo: fito    prediction: fit    true: find
+
+[essay 241]
+typo: thea    prediction: the    true: they
+typo: fallow    prediction: allow    true: follow
+
+[essay 242]
+typo: shrde    prediction: shade    true: three
+
+[essay 244]
+typo: bounf    prediction: bound    true: young
+
+[essay 245]
+typo: wcew    prediction: we    true: when
+typo: hsng    prediction: hong    true: hang
+
+[essay 246]
+typo: coeep    prediction: cheep    true: comes
+
+[essay 251]
+typo: ljva    prediction: lava    true: live
+
+[essay 252]
+typo: cear    prediction: near    true: dear
+
+[essay 258]
+typo: esvil    prediction: evil    true: email
+
+[essay 259]
+typo: studiee    prediction: studies    true: studied
+
+[essay 260]
+typo: wagb    prediction: wage    true: wasn
+typo: bful    prediction: ful    true: bill
+
+[essay 261]
+typo: tols    prediction: toys    true: toes
+
+[essay 264]
+typo: thcm    prediction: them    true: they
+typo: wkek    prediction: week    true: when
+
+[essay 265]
+typo: valse    prediction: vase    true: false
+
+[essay 271]
+typo: hohp    prediction: hop    true: hour
+typo: tvaz    prediction: taz    true: that
+
+[essay 272]
+typo: arbued    prediction: argued    true: around
+
+[essay 273]
+typo: fhok    prediction: for    true: from
+
+[essay 274]
+typo: zoep    prediction: zoey    true: step
+typo: zvero    prediction: zero    true: every
+typo: theq    prediction: the    true: they
+typo: lsoe    prediction: lose    true: like
+typo: apat    prediction: pat    true: that
+
+[essay 275]
+typo: thiy    prediction: they    true: this
+typo: ynay    prediction: yay    true: away
+
+[essay 276]
+typo: ddan    prediction: dan    true: didn
+typo: winl    prediction: will    true: wine
+typo: theof    prediction: theo    true: there
+
+[essay 277]
+typo: tays    prediction: says    true: days
+
+[essay 278]
+typo: mhex    prediction: he    true: they
+
+[essay 279]
+typo: mume    prediction: mum    true: more
+
+[essay 281]
+typo: rocketo    prediction: rocket    true: rockets
+
+[essay 282]
+typo: whirm    prediction: whirr    true: while
+
+[essay 283]
+typo: mand    prediction: and    true: land
+typo: covw    prediction: cow    true: cold
+
+[essay 286]
+typo: sqxy    prediction: say    true: stay
+
+[essay 288]
+typo: grusi    prediction: grass    true: grubs
+
+[essay 289]
+typo: cemt    prediction: cent    true: meat
+typo: otherr    prediction: other    true: others
+typo: aage    prediction: page    true: cage
+typo: girin    prediction: grin    true: given
+
+[essay 290]
+typo: sase    prediction: safe    true: came
+typo: tfas    prediction: tvas    true: that
+typo: mokdy    prediction: moody    true: money
+
+[essay 293]
+typo: hrrn    prediction: horn    true: here
+
+[essay 295]
+typo: aood    prediction: wood    true: food
+
+[essay 296]
+typo: taxc    prediction: taxi    true: take
+
+[essay 298]
+typo: chrly    prediction: curly    true: early
+typo: cahu    prediction: chu    true: call
+
+[essay 300]
+typo: tocks    prediction: socks    true: books
+
+[essay 301]
+typo: yoit    prediction: noit    true: your
+
+[essay 302]
+typo: taete    prediction: taste    true: there
+typo: tmail    prediction: tail    true: small
+
+[essay 303]
+typo: bawl    prediction: ball    true: back
+
+[essay 305]
+typo: xoll    prediction: doll    true: will
+typo: jeed    prediction: need    true: seed
+typo: thxb    prediction: thb    true: them
+typo: yaze    prediction: yale    true: have
+
+[essay 306]
+typo: ykay    prediction: okay    true: play
+typo: wylt    prediction: walt    true: what
+
+[essay 308]
+typo: srxng    prediction: sing    true: bring
+
+[essay 310]
+typo: shts    prediction: sits    true: this
+typo: favogrite    prediction: favorite    true: favourite
+typo: shem    prediction: she    true: them
+
+[essay 312]
+typo: amery    prediction: avery    true: every
+
+[essay 313]
+typo: yowp    prediction: you    true: your
+
+[essay 316]
+typo: plac    prediction: play    true: plan
+
+[essay 318]
+typo: nome    prediction: some    true: come
+typo: davo    prediction: dave    true: date
+
+[essay 323]
+typo: favouite    prediction: favourite    true: favorite
+
+[essay 324]
+typo: nbor    prediction: nor    true: nbsp
+
+[essay 325]
+typo: wter    prediction: water    true: when
+typo: ohcen    prediction: when    true: often
+
+[essay 331]
+typo: wqne    prediction: wine    true: were
+typo: gopr    prediction: door    true: good
+
+[essay 332]
+typo: hise    prediction: his    true: have
+typo: mtrl    prediction: mtr    true: meal
+
+[essay 335]
+typo: penfriendz    prediction: penfriend    true: penfriends
+
+[essay 337]
+typo: citr    prediction: city    true: with
+
+[essay 338]
+typo: mesbs    prediction: mess    true: desks
+
+[essay 341]
+typo: tsich    prediction: thich    true: which
+
+[essay 342]
+typo: foim    prediction: form    true: from
+
+[essay 343]
+typo: fooda    prediction: food    true: foods
+typo: nbtc    prediction: nbc    true: nbsp
+typo: npep    prediction: pep    true: nbsp
+
+[essay 344]
+typo: lldt    prediction: let    true: last
+
+[essay 346]
+typo: neqt    prediction: next    true: kept
+
+[essay 348]
+typo: hdeks    prediction: desk    true: ideas
+
+[essay 351]
+typo: xutp    prediction: put    true: nuts
+
+[essay 352]
+typo: boqh    prediction: both    true: book
+
+[essay 353]
+typo: noiv    prediction: nov    true: nosy
+typo: cpmd    prediction: pmd    true: cold
+
+[essay 355]
+typo: teab    prediction: team    true: head
+typo: sfeh    prediction: she    true: seen
+
+[essay 356]
+typo: jsne    prediction: june    true: mine
+typo: lnve    prediction: live    true: love
+
+[essay 357]
+typo: scere    prediction: score    true: there
+typo: sonrme    prediction: some    true: source
+
+[essay 358]
+typo: talx    prediction: talk    true: tell
+
+[essay 359]
+typo: monct    prediction: monet    true: money
+typo: chrnged    prediction: changed    true: changes
+typo: eher    prediction: her    true: they
+typo: rovio    prediction: movie    true: radio
+
+[essay 360]
+typo: xarx    prediction: marx    true: hard
+
+[essay 361]
+typo: gvue    prediction: glue    true: gave
+
+[essay 362]
+typo: aoke    prediction: woke    true: none
+
+[essay 363]
+typo: mjra    prediction: mara    true: more
+typo: tnom    prediction: tom    true: from
+typo: lisq    prediction: lisa    true: last
+
+[essay 364]
+typo: irch    prediction: rich    true: much
+
+[essay 365]
+typo: yosw    prediction: yos    true: your
+typo: youn    prediction: you    true: your
+
+[essay 366]
+typo: thev    prediction: the    true: they
+typo: vwon    prediction: won    true: owen
+typo: behe    prediction: bee    true: been
+
+[essay 367]
+typo: magb    prediction: magi    true: make
+
+[essay 368]
+typo: frke    prediction: free    true: from
+typo: byon    prediction: yon    true: soon
+
+[essay 370]
+typo: sioh    prediction: stop    true: sing
+
+[essay 371]
+typo: xuet    prediction: xue    true: just
+
+[essay 373]
+typo: tolk    prediction: took    true: work
+typo: xiue    prediction: xue    true: nice
+
+[essay 374]
+typo: tlerc    prediction: clerc    true: there
+
+[essay 375]
+typo: nifence    prediction: fence    true: silence
+typo: heep    prediction: help    true: keep
+
+[essay 376]
+typo: wadi    prediction: dadi    true: walk
+
+[essay 377]
+typo: sterp    prediction: step    true: sleep
+typo: pake    prediction: make    true: take
+typo: sooe    prediction: some    true: soon
+
+[essay 379]
+typo: modd    prediction: mood    true: told
+
+[essay 380]
+typo: kake    prediction: make    true: take
+
+[essay 382]
+typo: eftur    prediction: four    true: after
+typo: sithu    prediction: with    true: sites
+
+[essay 383]
+typo: tomky    prediction: tommy    true: toney
+
+[essay 384]
+typo: cohng    prediction: chong    true: going
+
+[essay 385]
+typo: pasv    prediction: past    true: park
+
+[essay 386]
+typo: shaai    prediction: shuai    true: share
+
+[essay 387]
+typo: srouts    prediction: shouts    true: sports
+
+[essay 388]
+typo: thsse    prediction: these    true: there
+
+[essay 390]
+typo: ssen    prediction: seen    true: then
+
+[essay 391]
+typo: rust    prediction: must    true: just
+
+[essay 394]
+typo: orses    prediction: horses    true: order
+
+[essay 395]
+typo: gqis    prediction: is    true: goes
+
+[essay 396]
+typo: pavi    prediction: pali    true: pass
+typo: miyn    prediction: min    true: mini
+
+[essay 397]
+typo: rofks    prediction: rocks    true: books
+
+[essay 398]
+typo: cope    prediction: come    true: more
+
+[essay 400]
+typo: oanqing    prediction: anqing    true: handing
+typo: tofs    prediction: toys    true: this
+
+[essay 401]
+typo: wloodw    prediction: blood    true: floods
+typo: raxnh    prediction: rain    true: rains
+typo: einf    prediction: in    true: line
+
+[essay 402]
+typo: woflf    prediction: wolf    true: would
+
+[essay 403]
+typo: geos    prediction: goes    true: good
+typo: chyv    prediction: chyi    true: chew
+typo: hote    prediction: hope    true: hate
+
+[essay 404]
+typo: cvon    prediction: von    true: soon
+
+[essay 407]
+typo: wora    prediction: word    true: work
+
+[essay 408]
+typo: hmly    prediction: holy    true: only
+typo: nwner    prediction: owner    true: never
+
+[essay 409]
+typo: ihvy    prediction: ivy    true: they
+typo: hould    prediction: should    true: would
+
+[essay 410]
+typo: eaey    prediction: easy    true: they
+
+[essay 411]
+typo: lpain    prediction: pain    true: learn
+
+[essay 412]
+typo: peopid    prediction: peopie    true: people
+typo: lige    prediction: like    true: live
+
+[essay 414]
+typo: apkec    prediction: apec    true: asked
+
+[essay 416]
+typo: kevs    prediction: keys    true: kept
+typo: thme    prediction: the    true: time
+
+[essay 419]
+typo: uakes    prediction: makes    true: takes
+
+[essay 421]
+typo: gaste    prediction: taste    true: waste
+typo: neast    prediction: east    true: least
+
+[essay 422]
+typo: talj    prediction: tall    true: talk
+typo: hild    prediction: hill    true: hold
+
+[essay 424]
+typo: shme    prediction: she    true: some
+
+[essay 425]
+typo: cxpr    prediction: cpr    true: caps
+
+[essay 426]
+typo: nalm    prediction: calm    true: talk
+
+[essay 429]
+typo: ghen    prediction: when    true: they
+typo: thec    prediction: the    true: then
+typo: robi    prediction: robin    true: rome
+
+[essay 430]
+typo: eighb    prediction: eight    true: right
+typo: tihre    prediction: tire    true: there
+
+[essay 431]
+typo: findh    prediction: find    true: finds
+
+[essay 433]
+typo: libe    prediction: live    true: life
+typo: moane    prediction: moana    true: movie
+typo: alnj    prediction: and    true: also
+typo: ybans    prediction: bans    true: plans
+typo: cotg    prediction: lot    true: long
+
+[essay 436]
+typo: likns    prediction: likes    true: liked
+
+[essay 437]
+typo: nfge    prediction: nice    true: name
+typo: nalk    prediction: talk    true: park
+typo: wkate    prediction: kate    true: skate
+
+[essay 438]
+typo: tjap    prediction: tap    true: that
+
+[essay 439]
+typo: saye    prediction: says    true: face
+
+[essay 443]
+typo: bewz    prediction: benz    true: news
+
+[essay 444]
+typo: swit    prediction: sit    true: swim
+typo: lenl    prediction: lend    true: long
+
+[essay 446]
+typo: hakes    prediction: makes    true: takes
+
+[essay 447]
+typo: nhed    prediction: need    true: they
+typo: villagev    prediction: village    true: villages
+
+[essay 449]
+typo: thizh    prediction: thich    true: thing
+typo: liay    prediction: lily    true: lion
+
+[essay 450]
+typo: wved    prediction: wed    true: even
+
+[essay 452]
+typo: nisht    prediction: night    true: light
+
+[essay 453]
+typo: heasy    prediction: easy    true: heavy
+typo: zhvn    prediction: zhen    true: then
+
+[essay 454]
+typo: vutt    prediction: butt    true: must
+
+[essay 455]
+typo: llnh    prediction: llth    true: land
+typo: thcx    prediction: the    true: they
+typo: goro    prediction: gogo    true: more
+typo: hoak    prediction: oak    true: hold
+
+[essay 456]
+typo: uaft    prediction: raft    true: last
+typo: meadx    prediction: mead    true: means
+
+[essay 457]
+typo: asmy    prediction: amy    true: atms
+typo: oaos    prediction: oaks    true: says
+typo: nake    prediction: make    true: take
+
+[essay 458]
+typo: haen    prediction: han    true: when
+typo: pdae    prediction: pda    true: play
+typo: gren    prediction: green    true: free
+typo: wioe    prediction: wine    true: time
+
+[essay 461]
+typo: sxays    prediction: says    true: stays
+typo: moea    prediction: mona    true: more
+typo: theq    prediction: the    true: they
+
+[essay 464]
+typo: spjn    prediction: spin    true: upon
+
+[essay 466]
+typo: tfek    prediction: trek    true: they
+
+[essay 470]
+typo: gegs    prediction: gets    true: goes
+
+[essay 472]
+typo: hera    prediction: her    true: here
+typo: yilu    prediction: milu    true: will
+typo: caml    prediction: call    true: came
+
+[essay 473]
+typo: rsll    prediction: roll    true: tell
+
+[essay 479]
+typo: vuis    prediction: luis    true: this
+
+[essay 480]
+typo: hxlh    prediction: help    true: hold
+
+[essay 481]
+typo: chgnse    prediction: chinese    true: cheese
+typo: teef    prediction: beef    true: they
+
+[essay 482]
+typo: csme    prediction: come    true: came
+typo: neft    prediction: left    true: nest
+typo: uley    prediction: they    true: flew
+typo: earms    prediction: arms    true: farms
+
+[essay 483]
+typo: toone    prediction: tone    true: phone
+
+[essay 484]
+typo: earid    prediction: marid    true: early
+typo: mlsj    prediction: must    true: also
+
+[essay 485]
+typo: ogse    prediction: one    true: once
+
+[essay 487]
+typo: toem    prediction: tom    true: tree
+typo: iaue    prediction: have    true: take
+
+[essay 488]
+typo: wuout    prediction: out    true: about
+
+[essay 489]
+typo: linp    prediction: lin    true: ring
+
+[essay 491]
+typo: gould    prediction: would    true: could
+typo: humk    prediction: hump    true: home
+
+[essay 499]
+typo: teas    prediction: tea    true: dear
+
+[essay 500]
+typo: diad    prediction: did    true: didn
+

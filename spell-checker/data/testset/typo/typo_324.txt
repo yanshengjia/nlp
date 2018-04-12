@@ -1,0 +1,11 @@
+nbsp: nbor
+children: childrdn
+street: pcreet
+library: liqrary
+club: clfb
+nbsp: nhsp
+wednesdays: wednendays
+brick: brihk
+nbsp: vwsp
+nbsp: nbio
+taxi: tmxi

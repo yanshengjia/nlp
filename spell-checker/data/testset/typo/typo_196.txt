@@ -1,0 +1,8 @@
+turned: nurnex
+disciples: disciplws
+shout: saout
+disciples: discipwes
+explained: erplained
+other: otper
+will: biwl
+distance: distanvx

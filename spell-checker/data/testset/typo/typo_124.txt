@@ -1,0 +1,6 @@
+national: nationai
+park: knrk
+trees: tbees
+animals: amimals
+table: tybve
+place: plgce

@@ -1,0 +1,12 @@
+food: fofd
+meat: cemt
+parrots: pdrrots
+others: otherr
+each: efch
+cage: aage
+work: wort
+must: eust
+them: tzem
+given: girin
+because: becaush
+into: intb
